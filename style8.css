@@ -85,9 +85,9 @@ main{
     font-weight: 700;
     cursor: pointer;
     border-radius: 20px;
-    box-shadow: 0 5px 0 green;
+    box-shadow: 0 5px 0 purple;
     transition: background-color 0.5s ease 0s; 
-    background-color: green;
+    background-color: purple;
     margin-top: 10px;
 }
 .popup-overlay{
@@ -134,8 +134,8 @@ main{
     text-align: center;
     align-items: center;
     margin-top: 0px;
-	box-shadow: 0 0 30px green;
-	background-color: green;
+	box-shadow: 0 0 30px purple;
+	background-color: purple;
 	position:absolute;
 	}
 	.thank-you-message{
